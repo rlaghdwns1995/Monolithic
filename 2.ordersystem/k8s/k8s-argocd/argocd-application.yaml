@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/sol-aws/eks-Monolithic.git
+    repoURL: https://github.com/rlaghdwns1995/Monolithic.git
     targetRevision: main
     path: 2.ordersystem/k8s/k8s-ordersystem
   destination:
